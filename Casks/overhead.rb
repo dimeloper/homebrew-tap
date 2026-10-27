@@ -1,6 +1,6 @@
 cask "overhead" do
-  version "0.8.0"
-  sha256 "4efbd4780a14612f97ca11e08fc65eb88ee0b9029753625bd8bde711a4e42965"
+  version "0.8.1"
+  sha256 "718ac75e07b20ca3d475b06336e00444616e95b479a95cffa3143e7c82027a60"
 
   url "https://github.com/dimeloper/overhead/releases/download/v#{version}/Overhead-#{version}.dmg"
   name "Overhead"
